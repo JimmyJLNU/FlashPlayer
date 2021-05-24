@@ -1,10 +1,10 @@
 @echo off
-title å±è”½hostså¹¶è§£é™¤åŒºåŸŸé™åˆ¶
+title ÆÁ±Îhosts²¢½â³ıÇøÓòÏŞÖÆ
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
 if '%errorlevel%' NEQ '0' (
-echo ä½ è¿˜æ²¡æœ‰å¼€å¯ç®¡ç†å‘˜æƒé™ï¼Œæ­£åœ¨è¯·æ±‚ç®¡ç†å‘˜æƒé™ä¸­ã€‚ã€‚ã€‚ã€‚ã€‚ã€‚
+echo Äã»¹Ã»ÓĞ¿ªÆô¹ÜÀíÔ±È¨ÏŞ£¬ÕıÔÚÇëÇó¹ÜÀíÔ±È¨ÏŞÖĞ¡£¡£¡£¡£¡£¡£
 echo.
-echo è¯·åœ¨å¼¹å‡ºçš„çª—å£ä¸­ç‚¹â€œæ˜¯â€ï¼
+echo ÇëÔÚµ¯³öµÄ´°¿ÚÖĞµã¡°ÊÇ¡±£¡
 goto UACPrompt
 ) else ( goto gotAdmin )
 :UACPrompt
@@ -14,7 +14,7 @@ echo UAC.ShellExecute "%~s0", "", "", "runas", 1 >> "%temp%\getadmin.vbs"
 exit /B
 :gotAdmin
 @echo off
-echo æ­£åœ¨å¤„ç†ï¼Œè¯·ç¨å€™ã€‚ã€‚ã€‚ã€‚ã€‚ã€‚
+echo ÕıÔÚ´¦Àí£¬ÇëÉÔºò¡£¡£¡£¡£¡£¡£
 echo.
 ver|find /i " 10.0">nul &&echo y|cacls "%SystemRoot%\System32\drivers\etc\hosts" /c /p Everyone:f
 attrib -r -s -h %SystemRoot%\System32\drivers\etc\hosts
@@ -25,7 +25,7 @@ ipconfig /flushdns
 reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Macromedia\FlashPlayer\SafeVersions" /f
 reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Macromedia\FlashPlayer\SafeVersions" /f
 echo.
-echo å±è”½hostsæ–‡ä»¶ï¼ˆè”ç½‘å‡çº§ï¼‰ï¼Œå¹¶è§£é™¤åŒºåŸŸé™åˆ¶å·²ç»æˆåŠŸï¼
+echo ÆÁ±ÎhostsÎÄ¼ş£¨ÁªÍøÉı¼¶£©£¬²¢½â³ıÇøÓòÏŞÖÆÒÑ¾­³É¹¦£¡
 echo.
 pause
 exit
