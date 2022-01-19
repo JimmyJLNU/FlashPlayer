@@ -37,3 +37,8 @@ https://github.com/JimmyJLNU/FlashPlayer/archive/refs/heads/main.zip
 ##  鸣谢
 https://www.423down.com/2082.html  
 https://github.com/KuromeSan/FlashPatcher/releases
+
+## 开源项目
+https://github.com/JimmyJLNU/OpenVBS/blob/main/swffile.vbs
+https://github.com/JimmyJLNU/OpenVBS/blob/main/EncryptVBS.vbs
+（独立播放器 VBScript）
