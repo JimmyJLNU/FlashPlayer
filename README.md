@@ -1,4 +1,4 @@
-Adobe Flash Player 国际最终版合集
+# Adobe Flash Player 国际最终版合集
 提供ActiveX版本（*.ocx）、notforie版本（NPAPI）、Chrome版本（PPAPI）和独立播放器。
 
 注意：发行版（releases）只提供ActiveX版本（*.ocx）的插件，仅供IE内核浏览器使用！！！！！！
@@ -13,7 +13,7 @@ https://github.com/JimmyJLNU/FlashPlayer/archive/refs/heads/main.zip
 
 注：如果github.com打不开，请将其替换为github.jimmyjlnu.workers.dev。
 
-ActiveX控件版本安装的有关注意事项：
+# ActiveX控件版本安装的有关注意事项：
 
 一、安装前请修改系统Hosts文件屏蔽联网功能：
 
