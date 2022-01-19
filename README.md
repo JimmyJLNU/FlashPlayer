@@ -13,13 +13,13 @@ https://github.com/JimmyJLNU/FlashPlayer/archive/refs/heads/main.zip
 
 注：如果github.com打不开，请将其替换为github.jimmyjlnu.workers.dev。
 
-# ActiveX控件版本安装的有关注意事项：
+##  ActiveX控件版本的有关注意事项
 
 一、安装前请修改系统Hosts文件屏蔽联网功能：
 
-127.0.0.1 flash.cn
+`127.0.0.1 flash.cn
 127.0.0.1 www.flash.cn
-127.0.0.1 geo2.adobe.com
+127.0.0.1 geo2.adobe.com`
 
 二、安装后，请运行Flash.Patcher.exe（去时间炸弹修改补丁）即可正常使用，本程序无任何病毒，杀毒软件纯属误报，本人亲测，请放心使用！
 
@@ -28,10 +28,10 @@ https://github.com/JimmyJLNU/FlashPlayer/archive/refs/heads/main.zip
 2. 如果你已经安装了国内版（或者比国际最终版更高的）Flash Player 插件，请先用控制面板彻底卸载，并重启电脑后再试图安装；如果仍然存在残留（提示“无法注册Flash Player的ActiveX控件”），请使用安装包中附带的卸载工具彻底清理后，再重新安装国际最终版Flash插件！
 
 
-国内网盘备用（蓝奏网盘）：
+##  国内网盘备用（蓝奏网盘）
 插件合集：https://jimmyjlnu.lanzoui.com/b0651hkmh （密码：26df）
 独立播放器（29.0.0.171）：https://jimmyjlnu.lanzoui.com/i2NcYpeykzi
 
-鸣谢：
+##  鸣谢
 https://www.423down.com/2082.html
 https://github.com/KuromeSan/FlashPatcher/releases
