@@ -22,13 +22,12 @@ https://github.com/JimmyJLNU/FlashPlayer/archive/refs/heads/main.zip
 `127.0.0.1 www.flash.cn`  
 `127.0.0.1 geo2.adobe.com`  
 
-（注意：Windows 10及11用户请注意提权，[参照此教程](https://www.windows10zj.com/jiaocheng/8957.html)。
+（注意：Windows 10及11用户请注意**提权**，[参照此教程](https://www.windows10zj.com/jiaocheng/8957.html)。
 
 二、安装后，请运行`Flash.Patcher.exe`（去时间炸弹修改补丁）即可正常使用，本程序无任何病毒，**杀毒软件纯属误报，本人亲测，请放心使用！**  
 
 注意：
-1. SuperHosts项目已经集成屏蔽功能，你可以直接从Release中下载，并运行`自动替换Hosts`脚本即可：  
-   https://github.com/JimmyJLNU/SuperHosts/releases/  
+1. SuperHosts项目已经集成屏蔽功能，你可以直接从[Release](https://github.com/JimmyJLNU/SuperHosts/releases/)中下载，并运行`自动替换Hosts`脚本即可。  
 2. 如果你已经安装了国内版（或者比国际最终版更高的）Flash Player 插件，请先用**控制面板**彻底卸载，并**重启电脑**后再试图安装；如果仍然存在残留（提示“无法注册Flash Player的ActiveX控件”），**请使用安装包中附带的卸载工具彻底清理后，再重新安装国际最终版Flash插件！**  
 
 
