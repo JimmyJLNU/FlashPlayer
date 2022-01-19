@@ -1,7 +1,7 @@
 # Adobe Flash Player 国际最终版合集
-提供ActiveX版本（*.ocx）、notforie版本（NPAPI）、Chrome版本（PPAPI）和独立播放器。
+提供ActiveX版本*（*.ocx）*、notforie版本（NPAPI）、Chrome版本（PPAPI）和独立播放器。
 
-注意：[发行版](https://github.com/JimmyJLNU/FlashPlayer/releases/)只提供ActiveX版本（*.ocx）的插件，**仅供IE内核浏览器使用！！！！！！**  
+注意：[发行版](https://github.com/JimmyJLNU/FlashPlayer/releases/)只提供ActiveX版本*（*.ocx）*的插件，**仅供IE内核浏览器使用！！！！！！**  
 如果要下载其它版本的Flash插件，请移步：  
 1. 电脑版QQ（如QQ秀、QQ空间、群相册等上传功能），请下载**notforie**版本（NPAPI）。  
 2. Chromium（谷歌内核，或者称作“极速内核”）浏览器，请下载**Chrome**版本（PPAPI）。  
