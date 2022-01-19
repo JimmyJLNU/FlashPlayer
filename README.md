@@ -5,6 +5,7 @@
 如果要下载其它版本的Flash插件，请移步：  
 1. 电脑版QQ（如QQ秀、QQ空间、群相册等上传功能），请下载notforie版本（NPAPI）。  
 2. Chromium（谷歌内核，或者称作“极速内核”）浏览器，请下载Chrome版本（PPAPI）。  
+
 本站直接下载：  
 https://github.com/JimmyJLNU/FlashPlayer/releases  
 （IE内核浏览器使用的ActiveX控件版本）  
@@ -17,9 +18,9 @@ https://github.com/JimmyJLNU/FlashPlayer/archive/refs/heads/main.zip
 
 一、安装前请修改系统Hosts文件屏蔽联网功能：  
 
-`127.0.0.1 flash.cn  
-127.0.0.1 www.flash.cn  
-127.0.0.1 geo2.adobe.com`  
+`127.0.0.1 flash.cn`  
+`127.0.0.1 www.flash.cn`  
+`127.0.0.1 geo2.adobe.com`  
 
 二、安装后，请运行`Flash.Patcher.exe`（去时间炸弹修改补丁）即可正常使用，本程序无任何病毒，杀毒软件纯属误报，本人亲测，请放心使用！  
 
