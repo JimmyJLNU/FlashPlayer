@@ -16,11 +16,13 @@ https://github.com/JimmyJLNU/FlashPlayer/archive/refs/heads/main.zip
 
 ##  ActiveX控件版本的有关注意事项
 
-一、安装前请修改系统Hosts文件屏蔽联网功能：  
+一、安装前请修改系统hosts文件屏蔽联网功能：  
 
 `127.0.0.1 flash.cn`  
 `127.0.0.1 www.flash.cn`  
 `127.0.0.1 geo2.adobe.com`  
+
+（注意：Windows 10及11用户请注意提权，[参照此教程](https://www.windows10zj.com/jiaocheng/8957.html)。
 
 二、安装后，请运行`Flash.Patcher.exe`（去时间炸弹修改补丁）即可正常使用，本程序无任何病毒，**杀毒软件纯属误报，本人亲测，请放心使用！**  
 
