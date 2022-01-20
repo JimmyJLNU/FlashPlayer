@@ -24,7 +24,7 @@ https://github.com/JimmyJLNU/FlashPlayer/archive/refs/heads/main.zip
 
 （注意：Windows 10及11用户请注意**提权**，[参照此教程](https://www.windows10zj.com/jiaocheng/8957.html)。
 
-二、安装时，请务必**关闭自动更新功能**，如果忘记关闭可以事后从**控制面板——Flash Player**的“更新”选项卡中予以手动关闭。
+二、安装时，请务必**关闭自动更新功能**，如果忘记关闭可以事后从**控制面板——Flash Player**的“**更新**”选项卡中予以手动关闭。  
 三、安装后，请运行`Flash.Patcher.exe`（去时间炸弹修改补丁）即可正常使用，本程序无任何病毒，**杀毒软件纯属误报，本人亲测，请放心使用！**  
 
 注意：
