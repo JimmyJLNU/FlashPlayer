@@ -29,7 +29,7 @@ https://github.com/JimmyJLNU/FlashPlayer/archive/refs/heads/main.zip
 
 注意：
 1. [SuperHosts](https://github.com/JimmyJLNU/SuperHosts/)项目已经集成屏蔽功能，你可以直接从[Releases](https://github.com/JimmyJLNU/SuperHosts/releases/)中下载，并运行`自动替换Hosts`脚本即可。  
-2. 如果你已经安装了国内流氓版（或者比国际最终版更高的）Flash Player 插件，请先用**控制面板**彻底卸载，并**重启电脑**后再尝试安装；如果在重新安装的过程中仍然存在残留（提示“无法注册Flash Player的ActiveX控件”），**请使用[压缩包](https://github.com/JimmyJLNU/FlashPlayer/releases)中附带的卸载工具彻底清理后，再重新安装国际最终版Flash Player 插件！**  
+2. 如果你已经安装了国内流氓版（或者比国际最终版更高的）Flash Player 插件，请先用**控制面板**彻底卸载，并**重启电脑**后再尝试安装；如果在重新安装的过程中仍然存在残留（提示“无法注册Flash Player的ActiveX控件”），**请使用[压缩包](https://github.com/JimmyJLNU/FlashPlayer/releases)中附带的卸载工具彻底清理后，再重新安装国际最终版Flash Player插件！**  
 
 
 ##  国内网盘备用（蓝奏网盘）
